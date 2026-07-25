@@ -9,18 +9,27 @@ import Foundation
 
 struct ProductDTO: Decodable {
     let name: String
-    let image: String
     let type: ProductType
-    let skin: SkinType
+    let skinType: SkinType
+    let concernType: ConcernType
     let caption: String
     let description: String
     let usage: String
     
-    init(name: String, image: String, type: ProductType, skin: SkinType, caption: String, description: String, usage: String, isDone: Bool) {
+    init(
+        name: String,
+        type: ProductType,
+        skinType: SkinType,
+        concernType: ConcernType,
+        caption: String,
+        description: String,
+        usage: String,
+        isDone: Bool
+    ) {
         self.name = name
-        self.image = image
         self.type = type
-        self.skin = skin
+        self.skinType = skinType
+        self.concernType = concernType
         self.caption = caption
         self.description = description
         self.usage = usage
@@ -28,9 +37,9 @@ struct ProductDTO: Decodable {
     
     enum CodingKeys: String, CodingKey {
         case name
-        case image
         case type
-        case skin
+        case skinType = "skin_type"
+        case concernType = "concern_type"
         case caption
         case description
         case usage
@@ -39,9 +48,9 @@ struct ProductDTO: Decodable {
     init(from decoder: any Decoder) throws {
         let container = try decoder.container(keyedBy: CodingKeys.self)
         self.name = try container.decode(String.self, forKey: .name)
-        self.image = try container.decode(String.self, forKey: .image)
         self.type = try container.decode(ProductType.self, forKey: .type)
-        self.skin = try container.decode(SkinType.self, forKey: .skin)
+        self.skinType = try container.decode(SkinType.self, forKey: .skinType)
+        self.concernType = try container.decode(ConcernType.self, forKey: .concernType)
         self.caption = try container.decode(String.self, forKey: .caption)
         self.description = try container.decode(String.self, forKey: .description)
         self.usage = try container.decode(String.self, forKey: .usage)
