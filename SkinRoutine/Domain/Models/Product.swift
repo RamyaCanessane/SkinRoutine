@@ -12,7 +12,7 @@ struct Product: Identifiable {
     let name: String
     let image: String
     let type: ProductType
-    let skin: SkinType
+    let skinType: SkinType
     let caption: String
     let description: String
     let usage: String

@@ -1,0 +1,776 @@
+[
+  {
+    "name": "CeraVe Crème Hydratante",
+    "type": "Crème hydratante",
+    "skin_type": "Sèche",
+    "concern_type": "Peau atopique",
+    "caption": "Hydratation intense pour peaux sèches à très sèches",
+    "description": "Crème enrichie en trois céramides essentiels et acide hyaluronique. Elle aide à restaurer la barrière cutanée et à réduire les sensations de tiraillement.",
+    "usage": "Appliquer matin et soir sur visage propre."
+  },
+  {
+    "name": "La Roche-Posay Lipikar Baume AP+M",
+    "type": "Crème hydratante",
+    "skin_type": "Sèche",
+    "concern_type": "Peau atopique",
+    "caption": "Baume relipidant anti-irritations",
+    "description": "Soin réparateur enrichi en beurre de karité, niacinamide et actifs apaisants pour les peaux très sèches et atopiques.",
+    "usage": "Appliquer une à deux fois par jour."
+  },
+  {
+    "name": "Avène XeraCalm A.D Crème Relipidante",
+    "type": "Crème hydratante",
+    "skin_type": "Sèche",
+    "concern_type": "Peau atopique",
+    "caption": "Soin apaisant haute nutrition",
+    "description": "Crème relipidante destinée aux peaux sensibles à tendance atopique. Elle nourrit et apaise les sensations d'inconfort.",
+    "usage": "Appliquer quotidiennement sur le visage."
+  },
+  {
+    "name": "La Roche-Posay Toleriane Dermallergo Fluide",
+    "type": "Crème hydratante",
+    "skin_type": "Sèche",
+    "concern_type": "Rosacée",
+    "caption": "Hydratation apaisante haute tolérance",
+    "description": "Soin minimaliste conçu pour les peaux réactives sujettes aux rougeurs.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "Avène Antirougeurs Calm",
+    "type": "Crème hydratante",
+    "skin_type": "Sèche",
+    "concern_type": "Rosacée",
+    "caption": "Réduit les rougeurs et apaise la peau",
+    "description": "Soin contenant de l'eau thermale d'Avène pour calmer les sensations d'échauffement des peaux sensibles.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+    "type": "Sérum",
+    "skin_type": "Sèche",
+    "concern_type": "Pores dilatés",
+    "caption": "Réduit l'apparence des pores",
+    "description": "Sérum à base de niacinamide permettant d'améliorer l'apparence des pores et l'équilibre de la peau.",
+    "usage": "Appliquer quelques gouttes avant la crème hydratante."
+  },
+  {
+    "name": "Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant",
+    "type": "Sérum",
+    "skin_type": "Sèche",
+    "concern_type": "Points noirs",
+    "caption": "Exfoliant désincrustant doux",
+    "description": "Exfoliant à base d'acide salicylique qui aide à désobstruer les pores et éliminer les cellules mortes.",
+    "usage": "Appliquer le soir deux à trois fois par semaine."
+  },
+  {
+    "name": "CeraVe Nettoyant Hydratant",
+    "type": "Nettoyant visage",
+    "skin_type": "Sèche",
+    "concern_type": "Points noirs",
+    "caption": "Nettoyage doux sans dessécher",
+    "description": "Nettoyant contenant des céramides et de l'acide hyaluronique pour préserver l'hydratation naturelle.",
+    "usage": "Utiliser matin et soir sur visage humide."
+  },
+  {
+    "name": "La Roche-Posay Effaclar Duo(+)",
+    "type": "Sérum",
+    "skin_type": "Sèche",
+    "concern_type": "Imperfections",
+    "caption": "Soin anti-imperfections",
+    "description": "Soin correcteur permettant de réduire les imperfections tout en respectant la barrière cutanée.",
+    "usage": "Appliquer le soir sur les zones concernées."
+  },
+  {
+    "name": "Bioderma Sébium Sensitive",
+    "type": "Crème hydratante",
+    "skin_type": "Sèche",
+    "concern_type": "Imperfections",
+    "caption": "Apaise les peaux fragilisées",
+    "description": "Soin hydratant adapté aux peaux sensibles présentant des imperfections.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "La Roche-Posay Hyalu B5 Sérum",
+    "type": "Sérum",
+    "skin_type": "Sèche",
+    "concern_type": "Rides",
+    "caption": "Repulpe et hydrate intensément",
+    "description": "Sérum enrichi en acides hyaluroniques et vitamine B5 pour améliorer l'élasticité et l'apparence des ridules.",
+    "usage": "Appliquer matin et soir avant la crème."
+  },
+  {
+    "name": "The Ordinary Retinol 0.2% in Squalane",
+    "type": "Sérum",
+    "skin_type": "Sèche",
+    "concern_type": "Rides",
+    "caption": "Soin anti-âge progressif",
+    "description": "Sérum au rétinol faible concentration destiné à améliorer la texture de la peau.",
+    "usage": "Utiliser uniquement le soir deux à trois fois par semaine."
+  },
+  {
+    "name": "La Roche-Posay Anthelios UVMune 400 SPF50+",
+    "type": "Crème solaire",
+    "skin_type": "Sèche",
+    "concern_type": "Rides",
+    "caption": "Protection solaire anti-âge quotidienne",
+    "description": "Protection solaire haute couvrance contre les UVA responsables du vieillissement cutané.",
+    "usage": "Appliquer chaque matin en dernière étape."
+  },
+  {
+    "name": "Bioderma Atoderm Huile de Douche",
+    "type": "Huile lavante",
+    "skin_type": "Sèche",
+    "concern_type": "Peau atopique",
+    "caption": "Nettoyage nourrissant",
+    "description": "Huile lavante relipidante adaptée aux peaux sèches et sensibles.",
+    "usage": "Utiliser lors du nettoyage du visage."
+  },
+  {
+    "name": "La Roche-Posay Toleriane Dermo-Nettoyant",
+    "type": "Démaquillant",
+    "skin_type": "Sèche",
+    "concern_type": "Rosacée",
+    "caption": "Démaquillant haute tolérance",
+    "description": "Lait nettoyant doux sans parfum adapté aux peaux sensibles et réactives.",
+    "usage": "Appliquer puis retirer délicatement avec un coton."
+  },
+  {
+    "name": "La Roche-Posay Effaclar Gel Purifiant",
+    "type": "Nettoyant visage",
+    "skin_type": "Grasse",
+    "concern_type": "Imperfections",
+    "caption": "Nettoie les peaux grasses à imperfections",
+    "description": "Gel nettoyant contenant du zinc pour éliminer l'excès de sébum et purifier la peau sans l'agresser.",
+    "usage": "Utiliser matin et soir sur visage humide."
+  },
+  {
+    "name": "CeraVe Gel Moussant Anti-Imperfections",
+    "type": "Nettoyant visage",
+    "skin_type": "Grasse",
+    "concern_type": "Imperfections",
+    "caption": "Nettoyant avec acide salicylique",
+    "description": "Nettoyant enrichi en acide salicylique et niacinamide qui aide à réduire les imperfections et désobstruer les pores.",
+    "usage": "Appliquer sur peau humide puis rincer."
+  },
+  {
+    "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+    "type": "Sérum",
+    "skin_type": "Grasse",
+    "concern_type": "Pores dilatés",
+    "caption": "Régule le sébum et réduit l'apparence des pores",
+    "description": "Sérum à base de niacinamide et zinc qui aide à équilibrer la production de sébum et améliorer la texture de la peau.",
+    "usage": "Appliquer quelques gouttes matin ou soir avant la crème."
+  },
+  {
+    "name": "La Roche-Posay Effaclar Mat",
+    "type": "Crème hydratante",
+    "skin_type": "Grasse",
+    "concern_type": "Pores dilatés",
+    "caption": "Hydratant matifiant anti-brillance",
+    "description": "Soin hydratant léger qui réduit la brillance et aide à resserrer visuellement les pores.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant",
+    "type": "Sérum",
+    "skin_type": "Grasse",
+    "concern_type": "Points noirs",
+    "caption": "Exfoliant désincrustant aux BHA",
+    "description": "Exfoliant à base d'acide salicylique qui pénètre dans les pores pour éliminer les cellules mortes et réduire les points noirs.",
+    "usage": "Appliquer le soir deux à trois fois par semaine."
+  },
+  {
+    "name": "The Inkey List Salicylic Acid Cleanser",
+    "type": "Nettoyant visage",
+    "skin_type": "Grasse",
+    "concern_type": "Points noirs",
+    "caption": "Nettoyant purifiant anti-pores obstrués",
+    "description": "Nettoyant contenant de l'acide salicylique pour aider à désobstruer les pores et limiter l'apparition de points noirs.",
+    "usage": "Utiliser une fois par jour ou selon la tolérance."
+  },
+  {
+    "name": "La Roche-Posay Effaclar Duo+M",
+    "type": "Crème hydratante",
+    "skin_type": "Grasse",
+    "concern_type": "Imperfections",
+    "caption": "Soin correcteur anti-imperfections",
+    "description": "Soin contenant du niacinamide et des actifs purifiants pour réduire les boutons et marques persistantes.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "SVR Sebiaclear Serum",
+    "type": "Sérum",
+    "skin_type": "Grasse",
+    "concern_type": "Imperfections",
+    "caption": "Sérum anti-imperfections et anti-marques",
+    "description": "Sérum enrichi en acide salicylique, niacinamide et acide hyaluronique pour purifier et hydrater la peau.",
+    "usage": "Appliquer le soir sur peau propre."
+  },
+  {
+    "name": "Bioderma Sébium Hydra",
+    "type": "Crème hydratante",
+    "skin_type": "Grasse",
+    "concern_type": "Peau atopique",
+    "caption": "Hydratation des peaux grasses fragilisées",
+    "description": "Soin hydratant conçu pour les peaux grasses sensibilisées par des traitements desséchants.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "La Roche-Posay Toleriane Sensitive Fluide",
+    "type": "Crème hydratante",
+    "skin_type": "Grasse",
+    "concern_type": "Rosacée",
+    "caption": "Hydratation légère pour peau sensible",
+    "description": "Fluide apaisant adapté aux peaux sensibles et réactives ayant besoin d'une hydratation légère.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "Avène Tolérance Control Emulsion",
+    "type": "Crème hydratante",
+    "skin_type": "Grasse",
+    "concern_type": "Rosacée",
+    "caption": "Apaise les peaux sensibles",
+    "description": "Émulsion légère formulée pour les peaux hypersensibles sujettes aux rougeurs.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "La Roche-Posay Hyalu B5 Aquagel SPF30",
+    "type": "Crème solaire",
+    "skin_type": "Grasse",
+    "concern_type": "Rides",
+    "caption": "Hydratation et protection anti-âge",
+    "description": "Soin combinant acide hyaluronique et protection solaire pour prévenir le vieillissement cutané.",
+    "usage": "Appliquer chaque matin."
+  },
+  {
+    "name": "La Roche-Posay Anthelios UVMune 400 Fluide Oil Control SPF50+",
+    "type": "Crème solaire",
+    "skin_type": "Grasse",
+    "concern_type": "Rides",
+    "caption": "Protection solaire haute efficacité anti-brillance",
+    "description": "Fluide solaire spécialement formulé pour les peaux grasses avec fini mat.",
+    "usage": "Appliquer chaque matin en dernière étape."
+  },
+  {
+    "name": "The Ordinary Granactive Retinoid 2% Emulsion",
+    "type": "Sérum",
+    "skin_type": "Grasse",
+    "concern_type": "Rides",
+    "caption": "Soin anti-âge doux",
+    "description": "Sérum au rétinoïde nouvelle génération qui aide à améliorer la texture de la peau et réduire l'apparence des ridules.",
+    "usage": "Appliquer le soir deux à trois fois par semaine."
+  },
+  {
+    "name": "Bioderma Sébium H2O",
+    "type": "Démaquillant",
+    "skin_type": "Grasse",
+    "concern_type": "Imperfections",
+    "caption": "Eau micellaire purifiante",
+    "description": "Eau micellaire spécialement formulée pour les peaux mixtes à grasses, éliminant maquillage et impuretés.",
+    "usage": "Utiliser matin et soir ou après le maquillage."
+  },
+  {
+    "name": "La Roche-Posay Effaclar Eau Micellaire Ultra",
+    "type": "Démaquillant",
+    "skin_type": "Grasse",
+    "concern_type": "Points noirs",
+    "caption": "Nettoyage doux anti-impuretés",
+    "description": "Eau micellaire permettant d'éliminer l'excès de sébum et les impuretés sans dessécher la peau.",
+    "usage": "Appliquer avec un coton puis rincer si nécessaire."
+  },
+  {
+    "name": "CeraVe Crème Hydratante Visage PM",
+    "type": "Crème hydratante",
+    "skin_type": "Mixte",
+    "concern_type": "Peau atopique",
+    "caption": "Hydratation légère et réparation de la barrière cutanée",
+    "description": "Crème enrichie en céramides, niacinamide et acide hyaluronique adaptée aux peaux mixtes déshydratées.",
+    "usage": "Appliquer le soir sur visage propre."
+  },
+  {
+    "name": "La Roche-Posay Toleriane Sensitive Fluide",
+    "type": "Crème hydratante",
+    "skin_type": "Mixte",
+    "concern_type": "Peau atopique",
+    "caption": "Soin hydratant apaisant haute tolérance",
+    "description": "Fluide léger qui hydrate et apaise les peaux mixtes sensibles sans effet gras.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "Avène Tolérance Control Crème",
+    "type": "Crème hydratante",
+    "skin_type": "Mixte",
+    "concern_type": "Rosacée",
+    "caption": "Apaise les peaux sensibles sujettes aux rougeurs",
+    "description": "Soin minimaliste contenant de l'eau thermale d'Avène destiné aux peaux sensibles et réactives.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "La Roche-Posay Rosaliac AR Intense",
+    "type": "Sérum",
+    "skin_type": "Mixte",
+    "concern_type": "Rosacée",
+    "caption": "Sérum anti-rougeurs concentré",
+    "description": "Sérum enrichi en ambophénol et actifs apaisants pour réduire l'apparence des rougeurs.",
+    "usage": "Appliquer matin et soir avant la crème."
+  },
+  {
+    "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+    "type": "Sérum",
+    "skin_type": "Mixte",
+    "concern_type": "Pores dilatés",
+    "caption": "Régule le sébum et affine le grain de peau",
+    "description": "Sérum permettant d'améliorer l'apparence des pores et de réduire les brillances sur la zone T.",
+    "usage": "Appliquer quelques gouttes avant l'hydratant."
+  },
+  {
+    "name": "Vichy Normaderm Phytosolution Double Correction",
+    "type": "Crème hydratante",
+    "skin_type": "Mixte",
+    "concern_type": "Pores dilatés",
+    "caption": "Hydratation légère anti-imperfections",
+    "description": "Soin contenant de l'acide salicylique et des actifs purifiants pour améliorer la texture de la peau.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant",
+    "type": "Sérum",
+    "skin_type": "Mixte",
+    "concern_type": "Points noirs",
+    "caption": "Exfoliation douce des pores",
+    "description": "Exfoliant à base d'acide salicylique qui pénètre dans les pores pour éliminer les impuretés accumulées.",
+    "usage": "Appliquer le soir deux à trois fois par semaine."
+  },
+  {
+    "name": "The Inkey List Succinic Acid Acne Treatment",
+    "type": "Sérum",
+    "skin_type": "Mixte",
+    "concern_type": "Points noirs",
+    "caption": "Traitement ciblé des imperfections",
+    "description": "Soin contenant de l'acide succinique et de l'acide salicylique pour cibler les imperfections localisées.",
+    "usage": "Appliquer localement sur les zones concernées."
+  },
+  {
+    "name": "CeraVe Gel Moussant",
+    "type": "Nettoyant visage",
+    "skin_type": "Mixte",
+    "concern_type": "Points noirs",
+    "caption": "Nettoyage doux purifiant",
+    "description": "Gel nettoyant contenant trois céramides et de la niacinamide pour nettoyer sans dessécher.",
+    "usage": "Utiliser matin et soir."
+  },
+  {
+    "name": "La Roche-Posay Effaclar Duo+M",
+    "type": "Crème hydratante",
+    "skin_type": "Mixte",
+    "concern_type": "Imperfections",
+    "caption": "Soin correcteur anti-imperfections",
+    "description": "Soin complet qui aide à réduire les boutons, marques et imperfections tout en maintenant l'hydratation.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "SVR Sebiaclear Active Gel",
+    "type": "Sérum",
+    "skin_type": "Mixte",
+    "concern_type": "Imperfections",
+    "caption": "Soin anti-imperfections complet",
+    "description": "Gel concentré contenant de l'acide salicylique et de l'acide gluconique pour purifier la peau.",
+    "usage": "Appliquer le soir sur peau propre."
+  },
+  {
+    "name": "Bioderma Sébium Hydra",
+    "type": "Crème hydratante",
+    "skin_type": "Mixte",
+    "concern_type": "Imperfections",
+    "caption": "Réhydrate les peaux mixtes fragilisées",
+    "description": "Soin compensateur qui hydrate les peaux mixtes sensibilisées par des traitements anti-imperfections.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "La Roche-Posay Hyalu B5 Sérum",
+    "type": "Sérum",
+    "skin_type": "Mixte",
+    "concern_type": "Rides",
+    "caption": "Hydratation repulpante anti-âge",
+    "description": "Sérum contenant deux types d'acide hyaluronique et de la vitamine B5 pour améliorer l'élasticité de la peau.",
+    "usage": "Appliquer matin et soir avant la crème."
+  },
+  {
+    "name": "The Ordinary Granactive Retinoid 2% Emulsion",
+    "type": "Sérum",
+    "skin_type": "Mixte",
+    "concern_type": "Rides",
+    "caption": "Rétinoïde doux anti-âge",
+    "description": "Sérum léger qui aide à améliorer la texture de la peau et l'apparence des ridules.",
+    "usage": "Appliquer le soir deux à trois fois par semaine."
+  },
+  {
+    "name": "La Roche-Posay Anthelios UVMune 400 Fluide SPF50+",
+    "type": "Crème solaire",
+    "skin_type": "Mixte",
+    "concern_type": "Rides",
+    "caption": "Protection solaire invisible anti-âge",
+    "description": "Fluide solaire haute protection adapté aux peaux mixtes grâce à sa texture légère.",
+    "usage": "Appliquer chaque matin en dernière étape."
+  },
+  {
+    "name": "Beauty of Joseon Ginseng Cleansing Oil",
+    "type": "Huile lavante",
+    "skin_type": "Mixte",
+    "concern_type": "Points noirs",
+    "caption": "Démaquillage huileux non desséchant",
+    "description": "Huile nettoyante au ginseng permettant de dissoudre le maquillage, la crème solaire et les impuretés.",
+    "usage": "Utiliser le soir avant le nettoyant visage."
+  },
+  {
+    "name": "Bioderma Sensibio H2O",
+    "type": "Démaquillant",
+    "skin_type": "Mixte",
+    "concern_type": "Rosacée",
+    "caption": "Eau micellaire haute tolérance",
+    "description": "Démaquillant doux adapté aux peaux sensibles et mixtes sujettes aux rougeurs.",
+    "usage": "Utiliser matin et soir ou pour retirer le maquillage."
+  },
+  {
+    "name": "La Roche-Posay Toleriane Dermo-Nettoyant",
+    "type": "Nettoyant visage",
+    "skin_type": "Sensible",
+    "concern_type": "Peau atopique",
+    "caption": "Nettoyant ultra doux haute tolérance",
+    "description": "Nettoyant sans parfum conçu pour nettoyer les peaux sensibles tout en préservant leur barrière protectrice.",
+    "usage": "Appliquer matin et soir puis retirer délicatement."
+  },
+  {
+    "name": "Avène XeraCalm A.D Huile Lavante",
+    "type": "Huile lavante",
+    "skin_type": "Sensible",
+    "concern_type": "Peau atopique",
+    "caption": "Nettoyage relipidant pour peaux fragiles",
+    "description": "Huile lavante apaisante destinée aux peaux sensibles à tendance atopique. Elle aide à réduire les sensations d'inconfort.",
+    "usage": "Utiliser lors du nettoyage du visage."
+  },
+  {
+    "name": "CeraVe Crème Hydratante",
+    "type": "Crème hydratante",
+    "skin_type": "Sensible",
+    "concern_type": "Peau atopique",
+    "caption": "Répare et renforce la barrière cutanée",
+    "description": "Crème contenant trois céramides essentiels et de l'acide hyaluronique pour restaurer l'hydratation de la peau.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "La Roche-Posay Toleriane Dermallergo Crème",
+    "type": "Crème hydratante",
+    "skin_type": "Sensible",
+    "concern_type": "Rosacée",
+    "caption": "Soin apaisant anti-inconfort",
+    "description": "Crème formulée pour les peaux hypersensibles sujettes aux rougeurs et sensations d'échauffement.",
+    "usage": "Appliquer matin et soir sur peau propre."
+  },
+  {
+    "name": "Avène Antirougeurs Calm",
+    "type": "Crème hydratante",
+    "skin_type": "Sensible",
+    "concern_type": "Rosacée",
+    "caption": "Apaise les rougeurs diffuses",
+    "description": "Soin contenant des actifs apaisants pour diminuer les sensations d'inconfort liées aux rougeurs.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "La Roche-Posay Rosaliac AR Intense",
+    "type": "Sérum",
+    "skin_type": "Sensible",
+    "concern_type": "Rosacée",
+    "caption": "Sérum concentré anti-rougeurs",
+    "description": "Sérum enrichi en actifs apaisants destiné aux peaux présentant des rougeurs persistantes.",
+    "usage": "Appliquer matin et soir avant la crème."
+  },
+  {
+    "name": "SVR Sensifine AR",
+    "type": "Crème hydratante",
+    "skin_type": "Sensible",
+    "concern_type": "Rosacée",
+    "caption": "Réduit les sensations de chaleur et rougeurs",
+    "description": "Soin spécialement formulé pour les peaux sensibles et réactives avec une texture légère.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+    "type": "Sérum",
+    "skin_type": "Sensible",
+    "concern_type": "Pores dilatés",
+    "caption": "Améliore la texture de la peau",
+    "description": "La niacinamide aide à renforcer la barrière cutanée et à réduire visuellement l'apparence des pores.",
+    "usage": "Appliquer une petite quantité avant l'hydratant."
+  },
+  {
+    "name": "La Roche-Posay Effaclar Micro Peeling Gel",
+    "type": "Nettoyant visage",
+    "skin_type": "Sensible",
+    "concern_type": "Points noirs",
+    "caption": "Nettoyant purifiant doux",
+    "description": "Gel nettoyant contenant des actifs exfoliants doux pour éliminer les impuretés sans agresser la peau.",
+    "usage": "Utiliser quelques fois par semaine selon la tolérance."
+  },
+  {
+    "name": "CeraVe SA Gel Nettoyant Anti-Rugosités",
+    "type": "Nettoyant visage",
+    "skin_type": "Sensible",
+    "concern_type": "Points noirs",
+    "caption": "Nettoie et affine le grain de peau",
+    "description": "Nettoyant contenant de l'acide salicylique et des céramides pour désobstruer les pores.",
+    "usage": "Utiliser progressivement selon la sensibilité de la peau."
+  },
+  {
+    "name": "La Roche-Posay Effaclar Duo+M",
+    "type": "Crème hydratante",
+    "skin_type": "Sensible",
+    "concern_type": "Imperfections",
+    "caption": "Soin correcteur pour imperfections",
+    "description": "Soin destiné aux peaux sensibles avec imperfections, aidant à réduire boutons et marques.",
+    "usage": "Appliquer une fois par jour puis augmenter selon la tolérance."
+  },
+  {
+    "name": "Bioderma Sébium Sensitive",
+    "type": "Crème hydratante",
+    "skin_type": "Sensible",
+    "concern_type": "Imperfections",
+    "caption": "Apaise les peaux sensibles à imperfections",
+    "description": "Soin hydratant qui aide à réduire les rougeurs et les imperfections tout en respectant la peau.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "La Roche-Posay Cicaplast Baume B5+",
+    "type": "Crème hydratante",
+    "skin_type": "Sensible",
+    "concern_type": "Peau atopique",
+    "caption": "Réparation intense des peaux fragilisées",
+    "description": "Baume réparateur contenant du panthénol et du madécassoside pour apaiser les irritations.",
+    "usage": "Appliquer sur les zones fragilisées."
+  },
+  {
+    "name": "La Roche-Posay Hyalu B5 Sérum",
+    "type": "Sérum",
+    "skin_type": "Sensible",
+    "concern_type": "Rides",
+    "caption": "Hydratation repulpante haute tolérance",
+    "description": "Sérum contenant de l'acide hyaluronique et de la vitamine B5 pour hydrater et améliorer l'apparence des ridules.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "Avène DermAbsolu Sérum",
+    "type": "Sérum",
+    "skin_type": "Sensible",
+    "concern_type": "Rides",
+    "caption": "Soin anti-âge pour peaux sensibles",
+    "description": "Sérum enrichi en actifs restructurants pour améliorer la fermeté et le confort de la peau.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "La Roche-Posay Anthelios UVMune 400 Fluide SPF50+",
+    "type": "Crème solaire",
+    "skin_type": "Sensible",
+    "concern_type": "Rides",
+    "caption": "Protection solaire haute tolérance",
+    "description": "Protection solaire adaptée aux peaux sensibles avec une très haute protection UVA et UVB.",
+    "usage": "Appliquer chaque matin en dernière étape."
+  },
+  {
+    "name": "Bioderma Sensibio H2O",
+    "type": "Démaquillant",
+    "skin_type": "Sensible",
+    "concern_type": "Rosacée",
+    "caption": "Eau micellaire apaisante",
+    "description": "Eau micellaire conçue pour nettoyer et démaquiller les peaux sensibles sans rinçage.",
+    "usage": "Utiliser matin et soir."
+  },
+  {
+    "name": "Avène Lait Démaquillant Douceur",
+    "type": "Démaquillant",
+    "skin_type": "Sensible",
+    "concern_type": "Peau atopique",
+    "caption": "Démaquillant nourrissant doux",
+    "description": "Lait démaquillant enrichi en eau thermale d'Avène pour nettoyer sans dessécher.",
+    "usage": "Appliquer avec les doigts puis retirer délicatement."
+  },
+  {
+    "name": "Beauty of Joseon Relief Sun SPF50+",
+    "type": "Crème solaire",
+    "skin_type": "Sensible",
+    "concern_type": "Rosacée",
+    "caption": "Protection solaire hydratante apaisante",
+    "description": "Crème solaire contenant du riz et des probiotiques adaptée aux peaux sensibles recherchant confort et hydratation.",
+    "usage": "Appliquer chaque matin."
+  },
+  {
+    "name": "CeraVe Crème Hydratante Visage",
+    "type": "Crème hydratante",
+    "skin_type": "Normale",
+    "concern_type": "Peau atopique",
+    "caption": "Hydratation quotidienne et protection de la barrière cutanée",
+    "description": "Crème contenant trois céramides essentiels et de l'acide hyaluronique pour maintenir l'hydratation naturelle de la peau.",
+    "usage": "Appliquer matin et soir sur visage propre."
+  },
+  {
+    "name": "La Roche-Posay Toleriane Sensitive Crème",
+    "type": "Crème hydratante",
+    "skin_type": "Normale",
+    "concern_type": "Peau atopique",
+    "caption": "Hydratation apaisante haute tolérance",
+    "description": "Soin hydratant léger conçu pour renforcer la barrière cutanée et protéger les peaux sensibles.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "Avène Hydrance Légère Émulsion",
+    "type": "Crème hydratante",
+    "skin_type": "Normale",
+    "concern_type": "Peau atopique",
+    "caption": "Hydratation longue durée",
+    "description": "Émulsion hydratante enrichie en eau thermale d'Avène pour apporter confort et souplesse à la peau.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "Avène Antirougeurs Calm",
+    "type": "Crème hydratante",
+    "skin_type": "Normale",
+    "concern_type": "Rosacée",
+    "caption": "Apaise les rougeurs et protège la peau",
+    "description": "Soin apaisant adapté aux peaux normales sensibles sujettes aux rougeurs occasionnelles.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "La Roche-Posay Toleriane Dermallergo Sérum",
+    "type": "Sérum",
+    "skin_type": "Normale",
+    "concern_type": "Rosacée",
+    "caption": "Sérum apaisant pour peaux réactives",
+    "description": "Sérum hydratant contenant des actifs apaisants pour renforcer la tolérance des peaux sensibles.",
+    "usage": "Appliquer avant la crème hydratante."
+  },
+  {
+    "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+    "type": "Sérum",
+    "skin_type": "Normale",
+    "concern_type": "Pores dilatés",
+    "caption": "Améliore l'apparence des pores",
+    "description": "Sérum à base de niacinamide permettant d'équilibrer la peau et d'améliorer le grain de peau.",
+    "usage": "Appliquer matin ou soir avant l'hydratant."
+  },
+  {
+    "name": "La Roche-Posay Effaclar Micro Peeling Gel",
+    "type": "Nettoyant visage",
+    "skin_type": "Normale",
+    "concern_type": "Pores dilatés",
+    "caption": "Nettoyant purifiant pour un grain de peau plus uniforme",
+    "description": "Gel nettoyant contenant des actifs exfoliants doux pour éliminer les impuretés et améliorer la texture de la peau.",
+    "usage": "Utiliser quelques fois par semaine."
+  },
+  {
+    "name": "Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant",
+    "type": "Sérum",
+    "skin_type": "Normale",
+    "concern_type": "Points noirs",
+    "caption": "Exfoliant doux désincrustant",
+    "description": "Exfoliant à base d'acide salicylique qui aide à nettoyer les pores en profondeur et réduire les points noirs.",
+    "usage": "Appliquer le soir deux à trois fois par semaine."
+  },
+  {
+    "name": "CeraVe Gel Moussant Nettoyant",
+    "type": "Nettoyant visage",
+    "skin_type": "Normale",
+    "concern_type": "Points noirs",
+    "caption": "Nettoyage quotidien doux",
+    "description": "Nettoyant visage contenant des céramides et de la niacinamide pour nettoyer efficacement sans assécher.",
+    "usage": "Utiliser matin et soir."
+  },
+  {
+    "name": "The Ordinary Salicylic Acid 2% Solution",
+    "type": "Sérum",
+    "skin_type": "Normale",
+    "concern_type": "Points noirs",
+    "caption": "Traitement ciblé des pores obstrués",
+    "description": "Sérum à l'acide salicylique permettant de désobstruer les pores et améliorer la texture de la peau.",
+    "usage": "Appliquer localement ou sur les zones concernées le soir."
+  },
+  {
+    "name": "La Roche-Posay Effaclar Duo+M",
+    "type": "Crème hydratante",
+    "skin_type": "Normale",
+    "concern_type": "Imperfections",
+    "caption": "Soin correcteur anti-imperfections",
+    "description": "Soin léger permettant de réduire les imperfections et les marques tout en maintenant l'équilibre de la peau.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "SVR Sebiaclear Active Gel",
+    "type": "Sérum",
+    "skin_type": "Normale",
+    "concern_type": "Imperfections",
+    "caption": "Soin concentré anti-imperfections",
+    "description": "Gel contenant des actifs exfoliants et purifiants pour améliorer l'apparence des imperfections.",
+    "usage": "Appliquer le soir sur peau propre."
+  },
+  {
+    "name": "Bioderma Sébium Sensitive",
+    "type": "Crème hydratante",
+    "skin_type": "Normale",
+    "concern_type": "Imperfections",
+    "caption": "Apaise les imperfections tout en hydratant",
+    "description": "Soin adapté aux peaux normales sensibles présentant quelques imperfections.",
+    "usage": "Appliquer matin et soir."
+  },
+  {
+    "name": "La Roche-Posay Hyalu B5 Sérum",
+    "type": "Sérum",
+    "skin_type": "Normale",
+    "concern_type": "Rides",
+    "caption": "Sérum hydratant repulpant",
+    "description": "Sérum contenant deux types d'acide hyaluronique et de la vitamine B5 pour améliorer la fermeté et l'hydratation.",
+    "usage": "Appliquer matin et soir avant la crème."
+  },
+  {
+    "name": "The Ordinary Retinol 0.2% in Squalane",
+    "type": "Sérum",
+    "skin_type": "Normale",
+    "concern_type": "Rides",
+    "caption": "Soin rétinol anti-âge progressif",
+    "description": "Sérum léger au rétinol destiné à améliorer la texture de la peau et réduire l'apparence des ridules.",
+    "usage": "Appliquer uniquement le soir quelques fois par semaine."
+  },
+  {
+    "name": "La Roche-Posay Anthelios UVMune 400 SPF50+",
+    "type": "Crème solaire",
+    "skin_type": "Normale",
+    "concern_type": "Rides",
+    "caption": "Protection solaire anti-âge quotidienne",
+    "description": "Très haute protection solaire contre les UVA et UVB responsables du vieillissement cutané.",
+    "usage": "Appliquer chaque matin en dernière étape."
+  },
+  {
+    "name": "Beauty of Joseon Relief Sun SPF50+",
+    "type": "Crème solaire",
+    "skin_type": "Normale",
+    "concern_type": "Rosacée",
+    "caption": "Protection solaire hydratante",
+    "description": "Crème solaire légère contenant du riz et des probiotiques pour protéger et maintenir le confort de la peau.",
+    "usage": "Appliquer chaque matin."
+  },
+  {
+    "name": "Beauty of Joseon Ginseng Cleansing Oil",
+    "type": "Huile lavante",
+    "skin_type": "Normale",
+    "concern_type": "Points noirs",
+    "caption": "Dissout les impuretés sans déséquilibrer la peau",
+    "description": "Huile nettoyante permettant d'éliminer maquillage, crème solaire et excès de sébum tout en conservant le confort cutané.",
+    "usage": "Utiliser le soir avant le nettoyant visage."
+  },
+  {
+    "name": "Bioderma Sensibio H2O",
+    "type": "Démaquillant",
+    "skin_type": "Normale",
+    "concern_type": "Rosacée",
+    "caption": "Démaquillant doux haute tolérance",
+    "description": "Eau micellaire adaptée aux peaux normales sensibles nécessitant un nettoyage doux.",
+    "usage": "Utiliser matin et soir ou après le maquillage."
+  }
+]

@@ -12,5 +12,5 @@ struct User {
     let photo: String
     let email: String
     let skinType: SkinType
-    let concern: ConcernType
+    let concernType: ConcernType
 }
