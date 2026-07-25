@@ -7,7 +7,7 @@
 
 import Foundation
 
-enum ConcernType: String {
+enum ConcernType: String, Decodable {
     case atopic = "Peau atopique"
     case pores = "Pores dilatés"
     case blackHeads = "Points noirs"
