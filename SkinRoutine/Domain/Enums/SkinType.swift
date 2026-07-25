@@ -7,7 +7,7 @@
 
 import Foundation
 
-enum SkinType: String {
+enum SkinType: String, Decodable{
     case dry = "Sèche"
     case normal = "Normale"
     case oily = "Grasse"

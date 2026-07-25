@@ -7,7 +7,7 @@
 
 import Foundation
 
-enum ProductType: String {
+enum ProductType: String, Decodable {
     case moisturizer = "Crème hydratante"
     case cleanser = "Nettoyant visage"
     case spf = "Crème solaire"
