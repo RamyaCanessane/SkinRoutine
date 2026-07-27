@@ -24,7 +24,6 @@ struct ProductDTO: Decodable {
         caption: String,
         description: String,
         usage: String,
-        isDone: Bool
     ) {
         self.name = name
         self.type = type
@@ -45,7 +44,7 @@ struct ProductDTO: Decodable {
         case usage
     }
     
-    init(from decoder: any Decoder) throws {
+    nonisolated init(from decoder: any Decoder) throws {
         let container = try decoder.container(keyedBy: CodingKeys.self)
         self.name = try container.decode(String.self, forKey: .name)
         self.type = try container.decode(ProductType.self, forKey: .type)
