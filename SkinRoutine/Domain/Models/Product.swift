@@ -18,3 +18,4 @@ struct Product: Identifiable {
     let usage: String
     var isDone: Bool
 }
+

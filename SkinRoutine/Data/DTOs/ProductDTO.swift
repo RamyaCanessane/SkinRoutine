@@ -55,3 +55,18 @@ struct ProductDTO: Decodable {
         self.usage = try container.decode(String.self, forKey: .usage)
     }
 }
+
+extension ProductDTO {
+    func toDomain() -> Product {
+        return Product(
+            name: name,
+            image: "",
+            type: type,
+            skinType: skinType,
+            caption: caption,
+            description: description,
+            usage: usage,
+            isDone: false
+        )
+    }
+}
